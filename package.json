@@ -1,0 +1,22 @@
+{
+  "name": "orangehrm-testes-automatizados",
+  "version": "1.0.0",
+  "description": "Testes automatizados E2E do sistema OrangeHRM (ambiente de demonstração) - Equipe Ctrl + Test",
+  "scripts": {
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run",
+    "test": "cypress run"
+  },
+  "keywords": [
+    "cypress",
+    "qa",
+    "testes-automatizados",
+    "orangehrm",
+    "e2e"
+  ],
+  "author": "Equipe Ctrl + Test - Camila Vargas, Antonio Carlos, Roberto Medeiros",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.13.0"
+  }
+}

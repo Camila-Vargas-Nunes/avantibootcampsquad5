@@ -1,0 +1,19 @@
+{
+  "usuarioValido": {
+    "username": "Admin",
+    "password": "admin123"
+  },
+  "usuarioSenhaInvalida": {
+    "username": "Admin",
+    "password": "senhaerrada123"
+  },
+  "pesquisaUsuario": {
+    "usernameExistente": "Admin",
+    "usernameInexistente": "usuarioinexistente999",
+    "inicialDoUsername": "A"
+  },
+  "urlsProtegidas": {
+    "pim": "/web/index.php/pim/viewEmployeeList",
+    "admin": "/web/index.php/admin/viewSystemUsers"
+  }
+}
